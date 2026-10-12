@@ -1,4 +1,9 @@
-Workforce Intelligence Dashboard - Power BI | DAX | Power Query | HR Analytics
+
+## Workforce Intelligence Dashboard Preview
+
+![Workforce Intelligence Dashboard](Workforce_Dashboard.png)
+
+  Workforce Intelligence Dashboard - Power BI | DAX | Power Query | HR Analytics
 
 Project Overview
 Developed an interactive Workforce Intelligence Dashboard using Microsoft Power BI to analyze employee headcount, hiring activity, workforce separations, attrition, and employee engagement.
