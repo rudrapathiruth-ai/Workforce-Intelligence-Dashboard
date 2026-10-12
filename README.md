@@ -1,7 +1,9 @@
 
 ## Workforce Intelligence Dashboard Preview
 
-![Workforce Intelligence Dashboard](Workforce intelligence.png)
+![Workforce Intelligence Dashboard](workforce%20intelligence.png)
+
+
 
   Workforce Intelligence Dashboard - Power BI | DAX | Power Query | HR Analytics
 
